@@ -10,9 +10,9 @@ Pour installer cette API, vous pouvez cloner le dépôt Git sur votre machine lo
 
 Une fois l'API lancée, vous pouvez l'utiliser en effectuant des requêtes HTTP à l'aide d'un client REST tel que Postman ou cURL. Les points d'extrémité disponibles sont les suivants :
 
-"/users" : gère les opérations liées aux utilisateurs, telles que la création, la mise à jour et la suppression d'utilisateurs.
-"/products" : gère les opérations liées aux produits, telles que la création, la mise à jour et la suppression de produits.
-"/orders" : gère les opérations liées aux commandes, telles que la création, la mise à jour et la suppression de commandes.
+"/users" : gère les opérations liées aux utilisateurs, telles que la création, la mise à jour et la suppression d'utilisateurs.<br>
+"/products" : gère les opérations liées aux produits, telles que la création, la mise à jour et la suppression de produits.<br>
+"/orders" : gère les opérations liées aux commandes, telles que la création, la mise à jour et la suppression de commandes.<br>
 
 # Contribuer
 
