@@ -1,7 +1,7 @@
 /******************************* */
 /***Import des module nécessaire */
 const DB = require('../db.config')
-const Company = DB.Company
+const Company = DB.Company 
 
 /******************************** */
 /****Routage de la ressource Company */
